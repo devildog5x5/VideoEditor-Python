@@ -19,15 +19,15 @@ A comprehensive video editing application built with Python and PyQt6.
 
 ## Installation
 
-\\\ash
+```bash
 pip install -r requirements.txt
-\\\
+```
 
 ## Building Executable
 
-\\\ash
+```bash
 python build_executable.py
-\\\
+```
 
 ## License
 
